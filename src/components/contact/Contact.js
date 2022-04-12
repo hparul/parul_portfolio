@@ -22,12 +22,19 @@ const Contact = () => {
    const handleSubmit = (e) => {
     e.preventDefault();
     emailjs
-      .sendForm(
-        "service_rrvnzco",
-        "template_3v5nih4",
+      /* .sendForm(
+        "service_nsyompr",
+        "template_g0u88q7",
         formRef.current,
-        "user_DrriDPTGKO2Zj4RDXCA6W"
+        "user_aPb4m-ptRIe-PETGv"
+      ) */
+      .sendForm(
+        "default_service",
+        "contact_form",
+        formRef.current,
+        "aPb4m-ptRIe-PETGv"
       )
+      // .sendForm('service_nsyompr', 'contact_form', formRef.current)
       .then(
         (result) => {
           console.log(result);
@@ -71,7 +78,7 @@ const Contact = () => {
             <input style={{backgroundColor: darkMode && "#333"}} type="text" placeholder="Email" name="user_email" />
             <textarea style={{backgroundColor: darkMode && "#333"}} rows="5" placeholder="Message" name="message" />
             <button>Submit</button>
-            {done && "Thank you..."}
+            {done && " Thank you... Your message has been sent. I will contact you shortly. "}
           </form>
         </div>
       </div>

@@ -23,7 +23,7 @@ const Intro = () => {
           </div>  */} 
      <p className="intro-desc">
             
-            I am a front-end developer with good analytical skills and a scientific approach towards problem solving.I bring forth a positive attitude and willingness and motivation to learn new skills independently or in a team.
+            I am a front-end developer with good analytical skills and a scientific approach towards problem solving. I bring forth a positive attitude and willingness and motivation to learn new skills independently or in a team.
           </p><br/>
           <p className="intro-desc">I love to design and develop services for customers,
             specializing in creating stylish, modern websites and

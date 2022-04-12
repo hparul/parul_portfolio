@@ -14,36 +14,61 @@ export const projects = [
       id: 1,
       img: plant,
       link: "https://staging-webshop-class19-fp.herokuapp.com/",
+      source:"https://github.com/HackYourFuture-CPH/fp-class19",
+      title:"Plant Webshop",
+      year:"03-2022"
     },
     {
       id: 2,
       img: meal,
       link: "https://hparul-meal-sharing.herokuapp.com/",
+      source:"https://github.com/hparul/meal-sharing",
+      title:"Meal Sharing App",
+      year:"11-2021"
     },
     {
       id: 3,
-      img: weather,
-      link: "https://hparul.github.io/weather_app/",
+      img:githubSearch,
+      link: "https://hparul.github.io/Github_user_search/",
+      source:"https://github.com/hparul/hparul.github.io/tree/main/Github_user_search",
+      title:"Github User search App",
+      year:"10-2021"
     },
     {
       id: 4,
-      img: giphy,
-      link: "https://hparul.github.io/giphy/",
+
+      img:todo,
+      link: "https://hparul.github.io/todo_list/",
+      source:"https://github.com/hparul/hparul.github.io/tree/main/ToDo_List",
+      title:"ToDo List",
+      year:"10-2021"
+     
     },
     {
       id: 5,
-      img:todo,
-      link: "https://hparul.github.io/todo_list/",
+      img:weather,
+      link: "https://hparul.github.io/weather_app",
+      source:"https://github.com/hparul/hparul.github.io/tree/main/weather_app",
+      title:"Weather App",
+      year:"09-2021"
+      
     },
     {
       id: 6,
-      img:githubSearch,
-      link: "https://hparul.github.io/Github_user_search/"
+      img: giphy,
+      link: "https://hparul.github.io/giphy/",
+      source:"https://github.com/hparul/hparul.github.io/tree/main/giphy",
+      title:"Giphy Search",
+      year:"03-2022"
+      
     },
     {
       id: 7,
       img:game,
-      link: "https://hparul.github.io/fastest_presser_game/"
+      link: "https://hparul.github.io/fastest_presser_game/",
+      source:"https://github.com/HackYourFuture-CPH/fp-class19",
+      title:"Fastest Presser game",
+      year:"08-2021"
     },
     
     
