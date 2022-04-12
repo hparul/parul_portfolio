@@ -4,9 +4,9 @@
 import React, { useState } from "react";
 import "./navbar.css";
 import {
-  FaFacebookSquare,
-  FaInstagramSquare,
-  FaYoutubeSquare,
+  FaLinkedin,
+  FaGithubSquare,
+  
 } from "react-icons/fa";
 import { GiHamburgerMenu } from "react-icons/gi";
 
@@ -53,24 +53,24 @@ const Navbar = () => {
               
               
               <a href
-                ="#"
+                ="https://github.com/hparul"  target="_blank" rel="noreferrer"
                 >
-                <FaFacebookSquare className="facebook" />
+                <FaGithubSquare className="facebook" />
               </a>
             </li>
             <li>
-              <a href="#"
-                target="_blank">
-                <FaInstagramSquare className="instagram" />
+              <a href="https://www.linkedin.com/in/parul-jain-40856420a/"
+                target="_blank" rel="noreferrer">
+                <FaLinkedin className="instagram" />
               </a>
             </li>
-            <li>
+           {/*  <li>
               <a href
                 ="#"
                 target="_blank">
                 <FaYoutubeSquare className="youtube" />
               </a>
-            </li>
+            </li> */}
           </ul>
 
           {/* hamburger menu start  */}
