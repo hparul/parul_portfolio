@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 import "./contact.css";
 import Phone from "../../images/phone.png";
 import Email from "../../images/email.png";

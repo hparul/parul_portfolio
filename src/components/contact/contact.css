@@ -49,6 +49,7 @@
   
   .c-desc {
     font-weight: 200;
+  margin-top: 20px;
   }
   
   form {
@@ -60,7 +61,7 @@
     height: 50px;
     border: none;
     border-bottom: 1px solid black;
-    margin: 10px 0px;
+    margin: 10px 10px;
     font-size: 14px;
     padding-left: 10px;
   }

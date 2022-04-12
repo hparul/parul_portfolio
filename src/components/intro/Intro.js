@@ -12,7 +12,7 @@ const Intro = () => {
           <h2 className="intro-intro">Hello, I am </h2>
           <h1 className="intro-name">Parul
           </h1>
-              {/* <div className="intro-title">
+            {/*   <div className="intro-title">
             <div className="intro-title-wrapper">
               <div className="intro-title-item">Web Developer</div>
               <div className="intro-title-item">UI/UX Designer</div>
@@ -20,7 +20,7 @@ const Intro = () => {
               <div className="intro-title-item">Writer</div>
               <div className="intro-title-item">Content Creator</div>
             </div>
-          </div>  */}
+          </div>  */} 
      <p className="intro-desc">
             
             I am a front-end developer with good analytical skills and a scientific approach towards problem solving.I bring forth a positive attitude and willingness and motivation to learn new skills independently or in a team.
