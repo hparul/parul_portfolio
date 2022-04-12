@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/parul_portfolio/static/css/main.347c2838.css",
+    "main.css": "/parul_portfolio/static/css/main.31cb6369.css",
     "main.js": "/parul_portfolio/static/js/main.1e5e42a2.js",
     "static/media/MyImage.jpg": "/parul_portfolio/static/media/MyImage.1350ce790544fe4cd187.jpg",
     "static/media/Plant.jpg": "/parul_portfolio/static/media/Plant.088ef3d3e8bfc66ea39e.jpg",
@@ -9,11 +9,11 @@
     "static/media/giphy.png": "/parul_portfolio/static/media/giphy.7c8be27d46ca1336b126.png",
     "static/media/weather.png": "/parul_portfolio/static/media/weather.2acbbe7bf4ef3eea4b72.png",
     "index.html": "/parul_portfolio/index.html",
-    "main.347c2838.css.map": "/parul_portfolio/static/css/main.347c2838.css.map",
+    "main.31cb6369.css.map": "/parul_portfolio/static/css/main.31cb6369.css.map",
     "main.1e5e42a2.js.map": "/parul_portfolio/static/js/main.1e5e42a2.js.map"
   },
   "entrypoints": [
-    "static/css/main.347c2838.css",
+    "static/css/main.31cb6369.css",
     "static/js/main.1e5e42a2.js"
   ]
 }
